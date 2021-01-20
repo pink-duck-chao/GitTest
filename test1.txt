@@ -1,3 +1,4 @@
 abcd
 123456
 add func1
+add func2
